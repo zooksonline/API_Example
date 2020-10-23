@@ -1,0 +1,3 @@
+{
+    "mongoItems":"mongodb://localhost:2288/Items"
+}
